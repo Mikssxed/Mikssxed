@@ -59,7 +59,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- [![GitHub Streak](https://streak-stats-mu.vercel.app?user=Mikssxerd&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+   <img src="https://streak-stats-mu.vercel.app?user=Mikssxed&theme=dark&exclude_days=Sun%2CSat" />
 </div>
 
 <br/><br/>
