@@ -12,7 +12,7 @@
  
  🔭 I’m currently working at **ULAM LABS**
  
- 🌱 I’m currently learning **React, typescript, tailwind css**
+ 🌱 I’m currently learning **Supabase and Node.js**
 
  </div>
  
